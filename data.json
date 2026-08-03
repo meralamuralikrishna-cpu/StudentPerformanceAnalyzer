@@ -1,0 +1,39 @@
+{
+    "distribution": [
+        {
+            "grade": "A+",
+            "count": 13,
+            "percentage": 13.0
+        },
+        {
+            "grade": "A",
+            "count": 17,
+            "percentage": 17.0
+        },
+        {
+            "grade": "B",
+            "count": 6,
+            "percentage": 6.0
+        },
+        {
+            "grade": "B+",
+            "count": 11,
+            "percentage": 11.0
+        },
+        {
+            "grade": "C+",
+            "count": 9,
+            "percentage": 9.0
+        },
+        {
+            "grade": "C",
+            "count": 13,
+            "percentage": 13.0
+        },
+        {
+            "grade": "D",
+            "count": 31,
+            "percentage": 31.0
+        }
+    ]
+}
