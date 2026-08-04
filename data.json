@@ -2,38 +2,38 @@
     "distribution": [
         {
             "grade": "A+",
-            "count": 13,
-            "percentage": 13.0
+            "count": 8,
+            "percentage": 8.0
         },
         {
             "grade": "A",
-            "count": 17,
-            "percentage": 17.0
-        },
-        {
-            "grade": "B",
-            "count": 6,
-            "percentage": 6.0
-        },
-        {
-            "grade": "B+",
             "count": 11,
             "percentage": 11.0
         },
         {
-            "grade": "C+",
+            "grade": "B",
+            "count": 11,
+            "percentage": 11.0
+        },
+        {
+            "grade": "B+",
             "count": 9,
             "percentage": 9.0
         },
         {
+            "grade": "C+",
+            "count": 14,
+            "percentage": 14.000000000000002
+        },
+        {
             "grade": "C",
-            "count": 13,
-            "percentage": 13.0
+            "count": 14,
+            "percentage": 14.000000000000002
         },
         {
             "grade": "D",
-            "count": 31,
-            "percentage": 31.0
+            "count": 33,
+            "percentage": 33.0
         }
     ]
 }
